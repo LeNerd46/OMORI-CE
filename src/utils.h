@@ -56,6 +56,8 @@ public:
         gfx_Sprite(ButtonContinue, 135, 218);
         gfx_Sprite(ButtonOptions, 235, 218);
 
+        gfx_RLETSprite(Hand, 130 - Hand_width, 221);
+
         gfx_BlitBuffer();
     }
 

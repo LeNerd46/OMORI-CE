@@ -13,6 +13,7 @@ converts:
       - Pictures/OmoriWalkDown1.png
       - Pictures/OmoriWalkDown2.png
       - Pictures/OmoriWalkDown3.png
+      - Pictures/TitleScreen/Hand.png
 
   - name: normalimages
     palette: mypalette
