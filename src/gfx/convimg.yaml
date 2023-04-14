@@ -19,17 +19,17 @@ converts:
     palette: mypalette
     transparent-color-index: 0
     images:
-      - Pictures/TItleScreen/OmoriTitleScreen1.png
-      - Pictures/TItleScreen/OmoriTitleScreen2.png
-      - Pictures/TItleScreen/OmoriTitleScreen3.png
-      - Pictures/TItleScreen/OmoriTitleScreenWords.png
-      - Pictures/TItleScreen/OmoriTitleScreenLight.png
-      - Pictures/TItleScreen/OmoriTitleScreenLightThings1.png
-      - Pictures/TItleScreen/OmoriTitleScreenLightThings2.png
-      - Pictures/TItleScreen/OmoriTitleScreenLightThings3.png
-      - Pictures/TItleScreen/ButtonNewGame.png
-      - Pictures/TItleScreen/ButtonContinue.png
-      - Pictures/TItleScreen/ButtonOptions.png
+      - Pictures/TitleScreen/OmoriTitleScreen1.png
+      - Pictures/TitleScreen/OmoriTitleScreen2.png
+      - Pictures/TitleScreen/OmoriTitleScreen3.png
+      - Pictures/TitleScreen/OmoriTitleScreenWords.png
+      - Pictures/TitleScreen/OmoriTitleScreenLight.png
+      - Pictures/TitleScreen/OmoriTitleScreenLightThings1.png
+      - Pictures/TitleScreen/OmoriTitleScreenLightThings2.png
+      - Pictures/TitleScreen/OmoriTitleScreenLightThings3.png
+      - Pictures/TitleScreen/ButtonNewGame.png
+      - Pictures/TitleScreen/ButtonContinue.png
+      - Pictures/TitleScreen/ButtonOptions.png
 
 outputs:
   - type: c
