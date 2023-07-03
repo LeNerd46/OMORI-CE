@@ -6,8 +6,9 @@ A port of OMORI to the TI-84 Plus CE
 
 ### Current Progress:
 - [x] Main Menu
-- [ ] Whitespace - Current Working On
-- [ ] Playground Area
+- [x] Whitespace
+- [ ] Neighbor's Room
+- [ ] Vast Forest
 
 ## Contributing
 If you would like to help, please contact **LeNerd46#0316** on Discord
