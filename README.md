@@ -2,7 +2,7 @@
 A port of OMORI to the TI-84 Plus CE
 
 > **Warning** 
-<br />THIS IS A WORK IN PROGRESS
+<br />THIS IS A WORK IN PROGRESS<br />Due to the limitations of the calculator (mainly memory I think), this is almost impossible to continue. It was a fun project, but I'm not sure if I can continue unfortunately
 
 ### Current Progress:
 - [x] Main Menu
